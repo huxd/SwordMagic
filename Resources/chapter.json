@@ -1,0 +1,25 @@
+{
+    "hello" :  "world",
+    "chapter1": {
+        "playerCnt": 2,
+        "players": [
+            {
+                "role": 1
+            }
+        ]
+    },
+    "chapter2": {
+        "playerCnt": 4,
+        "players": [
+            {
+                "role": 1
+            },
+            {
+                "role": 1
+            },
+            {
+                "role": 2
+            }
+        ]
+    }
+}
